@@ -35,7 +35,7 @@ comments :
 nav:
   - GALLERY: "https://117139.github.io/wenxin.github.io/gallery/"  
   - JOURNAL: "https://117139.github.io/wenxin.github.io/journal/"
-  - ABOUT: "https://117139.github.io/wenxin.github.io/about/"
+  - 关于: "https://117139.github.io/wenxin.github.io/about/"
 
 # All translation keys
 translations:
