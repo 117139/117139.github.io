@@ -33,8 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://117139.github.io/wenxin.github.io/gallery/"  
-  - JOURNAL: "https://117139.github.io/wenxin.github.io/journal/"
+  - 画廊: "https://117139.github.io/wenxin.github.io/gallery/"  
+  - 日志: "https://117139.github.io/wenxin.github.io/journal/"
   - 关于: "https://117139.github.io/wenxin.github.io/about/"
 
 # All translation keys
