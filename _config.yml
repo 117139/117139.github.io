@@ -1,12 +1,12 @@
 # Site settings
-title: 问心
+title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://117139.github.io"
-baseurl: "/wenxin.github.io"
-facebook_username: "1171390035@qq.com"
+url: "https://sunbliss.github.io"
+baseurl: "/photorama"
+facebook_username: ""
 twitter_username: ""
-instagram_username: "wenxin1"
+instagram_username: ""
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   wenxin
+  name:   photorama
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - 画廊: "https://117139.github.io/wenxin.github.io/gallery/"  
-  - 日志: "https://117139.github.io/wenxin.github.io/journal/"
-  - 关于: "https://117139.github.io/wenxin.github.io/about/"
+  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
+  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
+  - ABOUT: "https://sunbliss.github.io/photorama/about/"
 
 # All translation keys
 translations:
